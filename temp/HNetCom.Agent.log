@@ -1,0 +1,16 @@
+﻿2023-02-08 15:52:54.117 HNetCom.Agent.log is created.
+2023-02-08 15:52:54.431 [FATAL]   InitBluetooth: System.PlatformNotSupportedException: No supported Bluetooth protocol stack found.
+   위치: InTheHand.Net.Bluetooth.Factory.BluetoothFactory.GetStacks_inLock()
+   위치: InTheHand.Net.Bluetooth.Factory.BluetoothFactory.get_Factories()
+   위치: HNetCom.Agent.MainFrame.InitBluetooth()
+2023-02-08 15:52:54.433 [INFO]    State:-1
+2023-02-08 15:52:54.434 [INFO]    Version:10.0.0.6945
+2023-02-08 15:52:54.435 [INFO]    Path:C:\Program Files (x86)\HNC\Office 2018\HOffice100\Bin\HNetCom.Agent.exe
+2023-02-08 15:52:54.474 [INFO]    StopTimer
+2023-02-08 15:52:54.484 [FATAL]   InitBluetooth: System.PlatformNotSupportedException: No supported Bluetooth protocol stack found.
+   위치: InTheHand.Net.Bluetooth.Factory.BluetoothFactory.GetStacks_inLock()
+   위치: InTheHand.Net.Bluetooth.Factory.BluetoothFactory.get_Factories()
+   위치: HNetCom.Agent.MainFrame.InitBluetooth()
+2023-02-08 15:52:54.485 [INFO]    State:-1
+2023-02-08 15:52:54.778 [INFO]    Create channel: net.pipe://localhost/HanUL/{0}/HShow
+2023-02-08 15:52:56.359 [INFO]    RemoveChannel: net.pipe://localhost/HanUL/{0}/HShow
