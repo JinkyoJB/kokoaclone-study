@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	color: #2e363e;
 }
 ol, ul {
 	list-style: none;
@@ -49,4 +50,9 @@ table {
 
 input:focus {
 	outline: none;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
 }
